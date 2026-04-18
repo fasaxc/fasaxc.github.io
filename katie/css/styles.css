@@ -101,6 +101,8 @@ h3 {
 .navbar-logo {
     height: 2rem;
     width: auto;
+    max-width: none;
+    flex-shrink: 0;
     display: block;
 }
 
